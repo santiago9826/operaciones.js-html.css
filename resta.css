@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.todo {
+    justify-content: center;
+    width: 700px;
+    margin: auto;
+    border: solid 4px rgb(22, 2, 253);
+    background-color: rgb(0, 213, 255);
+    margin-top: 60px;
+
+
+}
+
+.titulo1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.cont2 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.cont3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.cont4 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.cont4 button {
+    height: 30px;
+    border-radius: 8px;
+}
+
+.cuadro1 {
+    height: 45px;
+    border-radius: 7px;
+}
+
+.cuadro2 {
+    height: 45px;
+    border-radius: 7px;
+}

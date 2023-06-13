@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.todo {
+    justify-content: center;
+    width: 700px;
+    margin: auto;
+    border: solid 8px rgb(3, 3, 3);
+    background-color: rgb(8, 242, 4);
+    margin-top: 50px;
+    border-style: ridge;
+    border-radius: 20px;
+
+}
+
+.titulo1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.cont2 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.cont3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.cont4 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.cont4 button {
+    height: 30px;
+    border-radius: 8px;
+}
+
+.cuadro1 {
+    height: 45px;
+    border-radius: 7px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.cuadro2 {
+    height: 45px;
+    border-radius: 7px;
+    background-color: black;
+    color: aliceblue;
+}
